@@ -3300,6 +3300,11 @@ h1.page-title + .tag-cloud-list {
     transform: scale(0.7);
   }
 }
+@media screen and (max-width: 450px) {
+  .business-center {
+    display: none !important;
+  }
+}
 .business-center {
   position: relative;
   margin: 20px auto;

@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>第十一篇文章</title>
-      <link href="/posts/1.html"/>
-      <url>/posts/1.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="你好，世界"><a href="#你好，世界" class="headerlink" title="你好，世界"></a>你好，世界</h1><p>Hello World!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C++ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第九篇文章</title>
       <link href="/posts/1072.html"/>
       <url>/posts/1072.html</url>
@@ -233,7 +208,7 @@
       <link href="/posts/21412.html"/>
       <url>/posts/21412.html</url>
       
-        <content type="html"><![CDATA[<h1 id="你好，世界"><a href="#你好，世界" class="headerlink" title="你好，世界"></a>你好，世界</h1><p>Hello World!</p><div class="note default simple"><p>测试</p></div><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=21023992&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
+        <content type="html"><![CDATA[<h1 id="你好，世界"><a href="#你好，世界" class="headerlink" title="你好，世界"></a>你好，世界</h1><div class="note default simple"><p>Hello World!</p></div><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=21023992&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
       
       <categories>
